@@ -1,2 +1,4 @@
 # rootkited-annoying-popup
 Made to annoy people xd
+
+# NO NOT USE FOR MALICIOUS PURPOSES AND DO NOT COPY THE ROOTKIT CODE IF I FOUND U DID COPY THE CODE I WILL SUE YOU
